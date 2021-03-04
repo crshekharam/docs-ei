@@ -69,7 +69,7 @@ Let's create an integration project with the required modules (to store artifact
 
 ### Step 2: Create Endpoints
 
-The actual back-end services (healthcare services) are logically represented in the integration solution as **Endpiont** artifacts. 
+The actual back-end services (healthcare services) are logically represented in the integration solution as **Endpoint** artifacts. 
 
 Let's create two Endpoint artifacts for the two healthcare services:
 
